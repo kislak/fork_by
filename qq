@@ -1,0 +1,1 @@
+reek && rubocop && brakeman && bundle-audit check --update
